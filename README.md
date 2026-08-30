@@ -187,7 +187,7 @@ This profile is a showcase of the projects I've built and the ideas I've turned 
 
 ## 🤖 پروژه‌های هوش مصنوعی و هوشمند
 
-### 01 — Mew Chat
+### 01 — میو چت
 
 یکی از پروژه‌های اصلی من؛ یک **چت هوش مصنوعی** که به مدل‌های هوش مصنوعی خارجی متصل می‌شود.
 
@@ -212,7 +212,7 @@ This profile is a showcase of the projects I've built and the ideas I've turned 
 
 ---
 
-### 03 — LearnBook
+### 03 — لرن بوک
 
 یک پروژه کمک‌درسی برای **دانش‌آموزان پایه یازدهم و دوازدهم رشته انسانی**.
 
@@ -256,7 +256,7 @@ This profile is a showcase of the projects I've built and the ideas I've turned 
 
 ## 🛠️ ابزارها و پروژه‌های جانبی
 
-### 08 — EIP
+### 08 — جدا کننده آیپی
 
 ابزاری برای **جداسازی IPها** که می‌تواند در فرایندهای مرتبط با اسکنرهای IP و ساخت کانفیگ مورد استفاده قرار بگیرد.
 
@@ -264,7 +264,7 @@ This profile is a showcase of the projects I've built and the ideas I've turned 
 
 ---
 
-### 09 — ColorPhoto
+### 09 — رنگ عکس
 
 ابزاری برای **تغییر رنگ تصاویر** که استفاده اصلی آن می‌تواند تغییر رنگ لوگوها و فایل‌های گرافیکی باشد.
 
@@ -272,7 +272,7 @@ This profile is a showcase of the projects I've built and the ideas I've turned 
 
 ---
 
-### 10 — Flashcards
+### 10 — ایجاد فلش کارت
 
 ابزاری برای **ساخت فلش‌کارت‌های درسی**.
 
@@ -280,7 +280,7 @@ This profile is a showcase of the projects I've built and the ideas I've turned 
 
 ---
 
-### 11 — Taj
+### 11 — تجمع شمار
 
 ابزاری برای **شمارش تجمعات شبانه مردمی**.
 
@@ -288,7 +288,7 @@ This profile is a showcase of the projects I've built and the ideas I've turned 
 
 ---
 
-### 12 — Clock
+### 12 — ساعت
 
 یک ساعت بسیار مینیمال برای استفاده در حالت تمام‌صفحه؛ به شکلی که صفحه تقریباً کاملاً مشکی باشد و **فقط ساعت در مرکز آن نمایش داده شود**.
 
